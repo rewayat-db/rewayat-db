@@ -17,7 +17,7 @@ We aim to provide a well structured database of texts reported to Prophet Mohame
 - ???
 
 ## OPEN questions:
-- Which technology to use?
+- Which technology to use? => kotlin (nice language features)
 - First version supported version ?
 - Contribution and administration model and rights
 - **RAWI** score evaluation ?
@@ -25,3 +25,19 @@ We aim to provide a well structured database of texts reported to Prophet Mohame
 - Identitification of **RAWI** ?
 - Supported UIs (browser, mobile(Android, iOS, ..), Desktop) ?
 
+
+
+## What is the service we offer
+A query framework for hadeeth
+- hadeeths are clustered as classes, of different forms of a hadeeths
+- by searching for a hadeeth (part of hadeeth) you'll get all similar ahadeeth/ class of hadeeth
+- you get hadeeth accuracy according to different conditions (boukhari, muslem, imam ahmed...)
+- you can select a rawi and get all the riwayat coming through him
+- you can select a route (set of rowat), and find all hadeeths coming through them.
+
+## UI
+
+- Search similar hadeeth
+- Search rawi
+- Search by rawi route
+- calculate hadeeth authencity using routes or rawi authencity using riwyat. 
