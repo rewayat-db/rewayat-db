@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8709e97e-30d4-4ff5-b41c-c9259079f9ca" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/resources/sanad-hadith" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1U13Va6AOcnAFXUwVlON0LOzVUW" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Haskell Stack.rewayat-ghci">
+    <configuration name="rewayat-exe" type="HaskellStackConfigurationType" factoryName="Haskell Stack Runner" show_console_on_std_err="false" show_console_on_std_out="false">
+      <module name="rewayat" />
+      <option name="allowRunningInParallel" value="false" />
+      <option name="executable" value="rewayat-exe" />
+      <option name="programArgs" value="" />
+      <option name="stackArgs" value="" />
+      <option name="workingDirPath" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="rewayat-ghci" type="HaskellStackConfigurationType" factoryName="Haskell Stack REPL" show_console_on_std_err="false" show_console_on_std_out="false">
+      <module name="rewayat" />
+      <option name="allowRunningInParallel" value="false" />
+      <option name="stackArgs" value="" />
+      <option name="stackTarget" value="rewayat:lib" />
+      <option name="workingDirPath" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="rewayat-tests" type="HaskellStackConfigurationType" factoryName="Haskell Stack Tester" show_console_on_std_err="false" show_console_on_std_out="false">
+      <module name="rewayat" />
+      <option name="allowRunningInParallel" value="false" />
+      <option name="stackArgs" value="" />
+      <option name="testArguments" value="--color" />
+      <option name="testSuiteTargetName" value="rewayat:test:rewayat-test" />
+      <option name="workingDirPath" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Haskell Stack.rewayat-ghci" />
+      <item itemvalue="Haskell Stack.rewayat-exe" />
+      <item itemvalue="Haskell Stack.rewayat-tests" />
+    </list>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="$USER_HOME$/Desktop/Functional Program Design in Scala/calculator" value="PREVIEW" />
+        <entry key="$USER_HOME$/Desktop/Functional Program Design in Scala/example" value="PREVIEW" />
+        <entry key="$USER_HOME$/Desktop/Functional Program Design in Scala/quickcheck" value="PREVIEW" />
+        <entry key="$USER_HOME$/Desktop/Functional Program Design in Scala/streams" value="PREVIEW" />
+        <entry key="$USER_HOME$/Desktop/Functional Programming Principles in Scala/forcomp" value="PREVIEW" />
+        <entry key="$USER_HOME$/Desktop/Functional Programming Principles in Scala/funsets" value="PREVIEW" />
+        <entry key="$USER_HOME$/Desktop/Functional Programming Principles in Scala/objsets" value="PREVIEW" />
+        <entry key="$USER_HOME$/Desktop/Functional Programming Principles in Scala/patmat" value="PREVIEW" />
+        <entry key="$USER_HOME$/Desktop/Functional Programming Principles in Scala/recfun" value="PREVIEW" />
+        <entry key="$USER_HOME$/Desktop/Functional proramming in scala/Big Data Analysis with Scala and Spark/wikipedia" value="PREVIEW" />
+        <entry key="$USER_HOME$/Desktop/Functional proramming in scala/Parallel programming/barneshut" value="PREVIEW" />
+        <entry key="$USER_HOME$/Desktop/Functional proramming in scala/Parallel programming/example" value="PREVIEW" />
+        <entry key="$USER_HOME$/Desktop/Functional proramming in scala/Parallel programming/kmeans" value="PREVIEW" />
+        <entry key="$USER_HOME$/Desktop/Functional proramming in scala/Parallel programming/reductions" value="PREVIEW" />
+        <entry key="$USER_HOME$/Desktop/Functional proramming in scala/Parallel programming/scalashop" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
