@@ -1,3 +1,6 @@
 [submodule "haskell/haskell/resources/hadith-islamware"]
 	path = haskell/haskell/resources/hadith-islamware
 	url = https://github.com/ceefour/hadith-islamware
+[submodule "haskell/resources/hadith-islamware"]
+	path = haskell/resources/hadith-islamware
+	url = https://github.com/ceefour/hadith-islamware
